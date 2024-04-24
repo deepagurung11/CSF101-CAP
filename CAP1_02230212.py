@@ -39,7 +39,7 @@ def calculate_total_score(rounds):
     return total_score
 
 # File name for data
-filename = "CSF101-CAP/input_2_cap1.txt"  # Update according to the input file name
+filename = "input_2_cap1.txt"  # Update according to the input file name
 
 # Read input file
 rounds = read_input_file(filename)
