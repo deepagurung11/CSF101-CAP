@@ -1,11 +1,11 @@
-''' Deepa gurung
-B.E ICE
-02230212
-References
-Links that i have refered while solving :
-https://youtu.be/_uQrJ0TkZlc?si=KPZF0V_UC8ED5StP
-and got help from software engineering friends
-Solution'''
+# Deepa gurung
+# B.E ICE
+# 02230212
+# References
+# Links that i have refered while solving :
+# https://youtu.be/_uQrJ0TkZlc?si=KPZF0V_UC8ED5StP
+# and got help from software engineering friends
+# Solution'''
 def read_input_file(filename):
     with open(filename, 'r') as file:
         return [line.strip().split() for line in file]
