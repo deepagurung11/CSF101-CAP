@@ -4,6 +4,8 @@
 # References
 # Links that i have refered while solving :
 # https://youtu.be/_uQrJ0TkZlc?si=KPZF0V_UC8ED5StP
+# https://youtu.be/Qcefu1jVPds?si=T2wwWtPYNC0442gU
+# https://youtu.be/xRlN8CFJwAM?si=k3yaok_2F5mdPVhE
 # and got help from software engineering friends
 # Solution'''
 def read_input_file(filename):
