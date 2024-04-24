@@ -1,13 +1,3 @@
-''' Deepa gurung
-B.E ICE
-02230212
-References
-Links that i have refered while solving :
-https://www.w3schools.com/python/python_dictionaries.asp#:~:text=Dictionaries%20are%20used%20to%20store,and%20earlier%2c%20dictionaries%20are%20unordered.
-https://youtu.be/_uQrJ0TkZlc?si=KPZF0V_UC8ED5StP
-https://youtu.be/Qcefu1jVPds?si=yiLz18J8xNOWcNGA
-and got help from software engineering friends
-Solution'''
 def read_input_file(filename):
     with open(filename, 'r') as file:
         return [line.strip().split() for line in file]
